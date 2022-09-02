@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Socialdemokraterna",
+        "mainInterests": [
+            "skatt",
+            "kriminalitet"
+        ],
+        "topics": [
+            {
+                "topicName": "Skatt",
+                "info": 
+                "Vi vill se ett starkare samhälle med mer resurser till skolan och vården, högre pensioner, klimatsatsningar och en kompromisslös kamp mot brotten och dess orsaker. Framtidsinvesteringar går före stora skattesänkningar. Vårt Sverige kan bättre."
+            },
+            {
+                "topicName": "Kriminalitet",
+                "info": "Vi vill knäcka gängen"
+            }
+        ]
+    },
+    {
+        "name": "Moderaterna",
+        "mainInterests": [
+            "skatt",
+            "kriminalitet"
+        ],
+        "topics": [
+            {
+                "topicName": "Skatt",
+                "info": 
+                "Moderaterna vill sänka skattetrycket.  För att stärka drivkrafterna till jobb vill Moderaterna sänka skatten på arbete – främst på låga inkomster. Det är rätt för att det leder till fler jobb. Dessutom är det rättvist att flit och ansträngning lönar sig. Men Moderaterna är också det parti som vill sänka skatten mest för de som har jobbat – för landets pensionärer."
+            },
+            {
+                "topicName": "Kriminalitet",
+                "info": "Vi vill ha högre straff"
+            }
+        ]
+    },
+    {
+        "name": "Centerpartiet",
+        "mainInterests": [
+        ],
+        "topics": [
+            {
+                "topicName": "Skatt",
+                "info": 
+                "Gör det billigare för nya småföretag att skapa nya jobb Kostnaderna måste sänkas för att anställa de som är nya och oprövade på arbetsmarknaden. Det behöver bli billigare för nya småföretag att börja anställa och skapa jobb. Skattesystemet behöver förenklas. Vi vill se lägre skatter på arbete och i stället högre skatter på miljöutsläpp. Det måste gå att jobba i hela Sverige Klyvningen av svensk ekonomi finns inte bara på arbetsmarknaden utan även inom Sverige, mellan människor och mellan platser. Det finns orter som det har gått väldigt bra för, och orter som har ställts utanför. Både på landsbygden och i städerna. Det behövs en bred palett av åtgärder för att lyfta de platser som hamnat efter, där en av de viktigaste åtgärderna är att sänka skatten på jobb och företagande. Höj skatten på det miljöfarliga och sänk skatten på arbete och företagande Vi jobbar för en omfattande så kallad grön skatteväxling. Skatten på utsläpp höjs genom att den som förorenar betalar. De pengarna används till att sänka skatten på arbete och företagande. Det gröna avdraget som infördes på initiativ av Centerpartiet under 2021 har gjort det enklare att installera grön teknik hemma, något som är helt nödvändigt för klimatet. Sänk skatterna för de med lägst inkomster Lägre skatter ökar människors självbestämmande och gör det mer lönsamt att driva företag och arbeta. På sikt stärker det därmed även hela landets ekonomi. Vi arbetar därför för att genomföra breda skattesänkningar som främst riktar sig till dem med de allra lägsta inkomsterna."
+            }
+        ]
+    },
+    {
+        "name": "Kristdemokraterna",
+        "mainInterests": [
+        ],
+        "topics": [
+            {
+                "topicName": "Skatt",
+                "info": 
+                "Skatter ska finansiera välfärden och offentliga utgifter samt styra den ekonomiska utvecklingen i en social och ekologisk riktning. Skattesystemet bör utformas så att det stimulerar arbete, hederlighet, sparande och företagande. Den enskilde ska i största möjliga utsträckning få behålla sin egen lön innan kompletterande bidrag betalas ut."
+            }
+        ]
+    },
+    {
+        "name": "Liberalerna",
+        "mainInterests": [
+        ],
+        "topics": [
+            {
+                "topicName": "Skatt",
+                "info": 
+                "Skattesystemet ska vara utformat så att det gynnar flit, ambition och utbildning. När det är mer attraktivt att arbeta, investera och starta företag får vi en större kaka att dela på. För att kunna bygga en stark gemensam välfärd behöver vi betala skatt. Det är så vi kan se till att det finns lärare i klassrummen, läkare och sjuksköterskor på vårdcentralerna och poliserna på torgen. Dagens skattesystem har delar som motverkar det som bygger välståndet. Ju fler som arbetar och startar företag, desto fler kan bidra till vårt gemensamma. Därför behöver vi återinföra arbetslinjen."
+            }
+        ]
+    },
+    {
+        "name": "Miljöpartiet",
+        "mainInterests": [
+        ],
+        "topics": [
+            {
+                "topicName": "Skatt",
+                "info": 
+                "Miljöpartiet vill skapa en ekonomi inom planetens gränser och göra Sverige till världens första fossilfria välfärdsland Beskatta stora förmögenheter mer, men sänka skatten på arbete och i landsbygden sänka småföretagens skatt på arbete och höja skatten på miljöförstöring sänka kostnaderna på det som är bra för miljön, som reparationer, återvinning och second hand främja ekonomisk jämställdhet och jämlikhet"
+            }
+        ]
+    },
+    {
+        "name": "Sverigedemokraterna",
+        "mainInterests": [
+        ],
+        "topics": [
+            {
+                "topicName": "Skatt",
+                "info": 
+                "Skattesystemet ska utgå från statens, regioners och kommuners behov av att upprätthålla välfärd och trygghet. Detta inkluderar sektorer som offentligt finansierad utbildning och vård. Sverigedemokraterna anser att skattetrycket ska dämpas, vilket är fullt möjligt om skatteslöseriet motarbetas. Skattesänkningar ska dock genomföras ansvarsfullt och i en takt som varken hotar välfärden eller de offentliga finanserna. Sverigedemokraterna motsätter sig punktskatter på plastpåsar, kemikalier och inrikesflyg."
+            }
+        ]
+    },
+    {
+        "name": "Vänsterpartiet",
+        "mainInterests": [
+        ],
+        "topics": [
+            {
+                "topicName": "Skatt",
+                "info": 
+                "Vänsterpartiet vill bygga en stark välfärd som ger alla människor en bra sjukvård, skola och en trygg ålderdom. Efter flera decennier av skattesänkningar behöver därför det samlade skatteuttaget öka. Vänsterpartiet föreslår därför ökade skatter på kapital och höga inkomster."
+            }
+        ]
+    }
+]
+
